@@ -1,3 +1,5 @@
+package tp;
+
 
 public class quizz {
 	String TabQuizLowType1Spr[]= {"Douze personnes sont allées sur la Lune.",
